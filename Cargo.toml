@@ -2,5 +2,9 @@
 name = "deadeye"
 version = "0.1.0"
 edition = "2024"
+license-file = "LICENSE.md"
+description = "A TUI engine with a focus on minimalism."
+repository = "https://github.com/zmontgo/deadeye"
+readme = "README.md"
 
 [dependencies]
